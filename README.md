@@ -1,4 +1,4 @@
 # Ramin_Thesis
 
-This repo is Going to make RP for some CSV file's 
-and make a classification Based on them
+This repository will generate recurrence plots (RP) from CSV files
+and use them to perform classification tasks based on the patterns identified in the plots
