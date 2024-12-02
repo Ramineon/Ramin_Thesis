@@ -3,4 +3,4 @@
 This repository will generate recurrence plots (RP) from CSV files
 and use them to perform classification tasks based on the patterns identified in the plots
 
-![msg-10010613648-51.jpg](C:\Users\Admin\PycharmProjects\Ramin_Thesis\pic\msg-10010613648-51.jpg)
+![My Image](https://github.com/Ramineon/Ramin_Thesis/blob/main/pic/msg-10010613648-51.jpg)
