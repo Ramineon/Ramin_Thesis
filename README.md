@@ -5,4 +5,4 @@ and use them to perform classification tasks based on the patterns identified in
 
 ![Image2](https://github.com/Ramineon/Ramin_Thesis/blob/main/pic/2.jpg)
 
-![My Image](https://github.com/Ramineon/Ramin_Thesis/blob/main/pic/msg-10010613648-51.jpg)
+![My Image](https://github.com/Ramineon/Ramin_Thesis/blob/main/pic/photo_2024-12-02_18-59-40.jpg)
